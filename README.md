@@ -6,7 +6,7 @@ A simple program for accounting of various parts. Was hacked together in a few h
 
 ---
 Ввод:
-![Ввод](\DetailIS\img\PartIS_entry.png)
+![Ввод](/DetailIS/img/PartIS_entry.png)
 
 Обзор:
-![Обзор](\DetailIS\img\PartIS_view.png)
+![Обзор](/DetailIS/img/PartIS_view.png)
